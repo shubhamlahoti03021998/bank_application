@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Bank loans related DEV APIs "
+  contactDetails:
+    name: "Gopal Lahoti - DEV Owner"
+    email: "gopal@bank.com"
+  onCallSupport:
+    - (723) 696-8709
+    - (156) 352-0956

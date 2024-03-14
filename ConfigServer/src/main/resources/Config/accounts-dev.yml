@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related DEV APIs "
+  contactDetails:
+    name: "Shubham Lahoti - Dev Lead"
+    email: "shubh@bank.com"
+  onCallSupport:
+    - (666) 264-3765
+    - (666) 735-8371

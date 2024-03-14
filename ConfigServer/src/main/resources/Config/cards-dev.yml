@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank cards related DEV APIs "
+  contactDetails:
+    name: "Sandesh Lahoti - DEV Lead"
+    email: "sandy@bank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
